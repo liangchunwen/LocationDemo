@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定位</string>
+    <string name="location_title">定位信息</string>
+    <string name="location_lng">经度：%s</string>
+    <string name="location_lat">纬度：%s</string>
+    <string name="location_type">定位类型：%s</string>
+
+    <string name="permission_tip">Tip</string>
+    <string name="permission_msg">request permission failed! \n
+            you can grant permission in setting interface -> Permissions</string>
+    <string name="permission_btn_setting">go to setting</string>
+    <string name="permission_btn_quit">quit</string>
+</resources>
